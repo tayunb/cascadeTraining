@@ -1,0 +1,1 @@
+opencv_createsamples -info info.dat -vec pos.vec -h 40 -w 40 -num 2728
